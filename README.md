@@ -11,6 +11,6 @@ Responsive portfolio website.
 ![ota-yhteyttä-ja-footer](https://github.com/EetuEH/Portfolio-website/assets/90515624/15af1d95-331f-4131-b32b-76c595382068)
 
 
-navbar:
+navbar menu for lower resolution:
 
 ![navbar](https://github.com/EetuEH/Portfolio-website/assets/90515624/e1d8a199-85ee-4421-9b98-4655b84eade7)
